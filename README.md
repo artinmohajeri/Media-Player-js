@@ -1,6 +1,6 @@
 # Media Player js
-## This project is a video player with custom javascript controls (play, pause, stop, expand, volumeControl, last & next 10 seconds).
-## This project is using bootstrap5, javascript ES6 and fontAwesome4
+### This project is a video player with custom javascript controls (play, pause, stop, expand, volumeControl, last & next 10 seconds).
+### This project is using bootstrap5, javascript ES6 and fontAwesome4
 -(NOTE! You can also pause with space button or clicking on the video)
 
 -(NOTE! You can also volume with up and down arrows)
